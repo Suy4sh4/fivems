@@ -5,10 +5,10 @@
 const CONFIG = {
     // The URL of your bot's API endpoint
     // Change this to the actual URL where your bot API is running
-    API_URL: 'https://your-replit-url.repl.co',
+    API_URL: 'https://workspace.honot54835.repl.co',
     
     // Local storage key for the API token
-    AUTH_TOKEN_KEY: 'tlrp_dashboard_auth_token',
+    AUTH_TOKEN_KEY: '884dcaea123fa69b220ee73c6cc4fb06bcc085f65d6bdd75033eb4a4038d7050',
     
     // Discord-related colors
     COLORS: {
